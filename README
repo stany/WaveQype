@@ -1,0 +1,23 @@
+WaveQype is the Google Wave client for Qype
+It allows searching for your best places near you - directly out of your wave.
+
+This program is the result of the pair-programming session of Jan Baudisch and Marcin Stankiewicz on the Google Technology User Group meeting in Hamburg on 24.10.2009
+
+To add this application to Google Wave:
+-  register the application waveqype@appspot.com
+-  type in: @waveqype "tittmanns,hamburg"
+
+Here's a short sceencast - on how to do it:
+- http://www.youtube.com/watch?v=ySgFeZOztOU
+
+You also have to register your API keys on Qype:
+- http://www.qype.com/developers/api
+*** NOTE: Your API key has to be inserted into the ApiKey file to make your application work.***
+
+
+--------------------------------------------
+To learn more about Google Wave go to:
+- http://www.youtube.com/watch?v=v_UyVmITiYQ
+
+More information on what Qype is:
+- http://www.qype.com
