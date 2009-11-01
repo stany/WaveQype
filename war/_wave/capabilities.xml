@@ -4,5 +4,5 @@
     <w:capability name="WAVELET_PARTICIPANTS_CHANGED" content="true" />   
     <w:capability name="DOCUMENT_CHANGED" content="true" context="self" />
   </w:capabilities>
-  <w:version>1</w:version>
+  <w:version>2</w:version>
 </w:robot>
